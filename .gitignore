@@ -5,3 +5,7 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+/example_project
+keyboard_v2.py
+keyboard.py
+out.txt
